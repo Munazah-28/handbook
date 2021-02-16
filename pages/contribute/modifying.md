@@ -11,7 +11,7 @@ toc: off
 ---
 
    You can modify or edit the content of a page directly on Github. For this you will first need to login (or signup if you do not have an account yet)
-   to Github. 
+   to Github.   
        {% include image.html file="/github_login.png" alt="" caption="" %}
 
 
